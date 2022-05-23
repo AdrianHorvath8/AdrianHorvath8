@@ -6,7 +6,6 @@
 - 🏆 Long term goal: Be senior level programator
 - 📖 I’m currently studying at the Stredná odborná škola informačných technológií, Ostrovského 1, Košice
 - 🌱 I’m currently learning Django
-- 🤝I’m looking for help with get internship
 <hr>
 
 <h3 align="left">📫Connect with me:</h3>
