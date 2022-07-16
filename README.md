@@ -2,7 +2,7 @@
 <h2 align="center">I'm young programer who started his programmer journey one year ago</h2>
 <h3 align="left">🙋‍♂️ About me:</h3>
 
-- 🎖️ Short term goal: I want to have an internship during high school 
+- 🎖️ Short term goal: I want to have an internship during high school (stredná škola)
 - 🏆 Long term goal: Be senior level programator
 - 📖 I’m currently studying at the Stredná odborná škola informačných technológií, Ostrovského 1, Košice
 - 🌱 I’m currently learning Django
