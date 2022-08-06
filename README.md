@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrián</h1>
-<h2 align="center">I'm young programer who started his programmer journey one year ago</h2>
+<h2 align="center">I am a self-taught backend developer who is learning Django and wants to improve in the 
+web development field</h2>
 <h3 align="left">🙋‍♂️ About me:</h3>
 
 - 🎖️ Short term goal: I want to have an internship during high school (stredná škola)
