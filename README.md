@@ -4,7 +4,7 @@
 
 - 🎖️ Short term goal: I want to become a strong medior programmer
 - 🏆 Long term goal: I want to become a senior programmer who will technically lead large projects
-- 💻 I’m currently working at Royal Fox s.r.o.
+- 💻 I’m currently working at <a href="https://www.royal-fox.cz/"> Royal Fox s.r.o. </a>
 - 🌱 I'm currently improving my skills in Django and all the technologies associated with it
 <hr>
 
