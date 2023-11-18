@@ -2,15 +2,15 @@
 <h2 align="center">I'm a backend developer with a year of hands-on experience, driven by a passion for Django.  As a self-taught developer, I've been on a coding adventure mastering the art of backend development and contributing my skills to projects that demand both precision and innovation.</h2>
 <h3 align="left">🙋‍♂️ About me:</h3>
 
-- 🎖️ Short term goal: I want to have an internship during high school (stredná škola)
-- 🏆 Long term goal: Be senior level programator
-- 📖 I’m currently studying at the Stredná odborná škola informačných technológií, Ostrovského 1, Košice
-- 🌱 I’m currently learning Django
+- 🎖️ Short term goal: I want to become a strong medior programmer
+- 🏆 Long term goal: I want to become a senior programmer who will technically lead large projects
+- 💻 I’m currently working at Royal Fox s.r.o.
+- 🌱 I'm currently improving my skills in Django and all the technologies associated with it
 <hr>
 
 <h3 align="left">📫Connect with me:</h3>
 E-mail: adrian.horvath.ah8@gmail.com
-<p>Tel: 0944 007 293</p>
+<p>Tel: +421 944 007 293</p>
 <p align="left">
 </p>
 
