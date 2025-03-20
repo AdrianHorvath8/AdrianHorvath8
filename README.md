@@ -14,7 +14,7 @@
 
 🌱 I'm currently improving my skills in Django and all the technologies associated with it
 
-💻 I’m currently working at <a href="https://www.royal-fox.cz/"> Royal Fox s.r.o. </a>
+💻 I’m currently working on my own SAAS project.
  
  </div>
  
