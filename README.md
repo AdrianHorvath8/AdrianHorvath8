@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adrián+Horváth!;" />
 </h1>
 
-<h3 align="center">I'm a backend developer with a year of hands-on experience, driven by a passion for Django.  As a self-taught developer, I've been on a coding adventure mastering the art of backend development and contributing my skills to projects that demand both precision and innovation.</h3>
+<h3 align="center">I'm a backend developer with a multiple years of hands-on experience, driven by a passion for Django.  As a self-taught developer, I've been on a coding adventure mastering the art of backend development and contributing my skills to projects that demand both precision and innovation.</h3>
 
 <br/>
 
