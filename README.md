@@ -14,7 +14,7 @@
 
 🌱 I'm currently improving my skills in Django and all the technologies associated with it
 
-💻 I’m currently looking for new backend opportunities where I can contribute to meaningful products and grow alongside a motivated team.
+💻 I’m currently looking for new backend opportunities where I can contribute to meaningful products.
  
  </div>
  
